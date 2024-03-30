@@ -1,0 +1,18 @@
+{
+  "name": "rest-api-deploy",
+  "version": "1.0.0",
+  "description": "THIS IS THE THIRDTH CLASS",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "SANTILLAN-C",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "zod": "3.22.4"
+  }
+}
